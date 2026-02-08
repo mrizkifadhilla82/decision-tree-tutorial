@@ -51,3 +51,5 @@ print('Akurasi', accuracy_score(y_test, y_pred_dt))
 7. **Evaluasi**: Hitung akurasi model menggunakan `accuracy_score`.
 
 Dengan langkah-langkah ini, Anda dapat membangun dan mengevaluasi model Decision Tree sederhana.
+
+Hallo
